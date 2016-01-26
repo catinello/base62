@@ -7,7 +7,7 @@ base62 encoding using 62 characters [0-9][A-Z][a-z]
 
 ##Examples:##
 
-[see examples_test.go](examples_test.go)
+[see example_test.go](example_test.go)
 
 [&copy; Antonino Catinello][HOME] - [MIT-License][MIT]
 
