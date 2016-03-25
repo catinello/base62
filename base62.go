@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const (
+var (
 	// CharacterSet consists of 62 characters [0-9][A-Z][a-z].
 	Base = 62
 	CharacterSet = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
