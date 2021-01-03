@@ -1,3 +1,5 @@
+#### This repository is archived and stays only to not break peoples modules. New home @ https://codeberg.org/ac/base62 
+
 base62
 ===
 
@@ -5,7 +7,7 @@ base62 (Duosexagesimal) encoding using 62 characters [0-9][A-Z][a-z]
 
 [![GoDoc](https://godoc.org/github.com/catinello/base62?status.png)](https://godoc.org/github.com/catinello/base62) [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)][BSD]
 
-##Examples:##
+### Examples:
 
 See Encode/Decode examples in [example_test.go](example_test.go).
 
